@@ -1,0 +1,4 @@
+/app-a/   https://optimistic-bardeen-f342ca.netlify.app/app-a   200
+/app-a/*  https://optimistic-bardeen-f342ca.netlify.app/:splat  200
+
+/app-b/*  https://vigorous-blackwell-cf41b6.netlify.app/:splat  200
