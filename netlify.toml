@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/app-a"
+  to = "https://optimistic-bardeen-f342ca.netlify.app"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/app-b"
+  to = "https://vigorous-blackwell-cf41b6.netlify.app/"
+  status = 200
+  force = true
